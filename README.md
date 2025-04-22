@@ -1,7 +1,7 @@
 # trendy_closet
 
 
-![Uploading ChatGPT Image Apr 22, 2025, 09_41_49 PM.png…]()
+![ChatGPT Image Apr 22, 2025, 09_41_49 PM](https://github.com/user-attachments/assets/f285ae2c-8ed9-441e-a7ac-4781954a95be)
 
 
 
